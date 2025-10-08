@@ -125,3 +125,33 @@ Tools used:
 - **Blender** → 3D modeling and rigging  
 - **Photoshop** → texture creation and visual editing  
 - **DXTbmp** → alpha-channel management and `.dds` conversion
+
+---
+
+## Galería
+
+![Ateleaspis tessellata](https://static.wikia.nocookie.net/zt2downloadlibrary/images/f/f4/Ateleaspis_%28Imago%29.png/revision/latest?cb=20150816132837)
+
+![Gyrosteus mirabilis](https://static.wikia.nocookie.net/zt2downloadlibrary/images/d/de/Gyrosteus_%28Imago%29.png/revision/latest/scale-to-width-down/1000?cb=20150816123308)
+
+![Helicoprion bessonowi](https://static.wikia.nocookie.net/zt2downloadlibrary/images/3/3b/Helicoprion_%28Imago%29.png/revision/latest?cb=20150814145900)
+
+![Hippocampus sarmaticus](https://static.wikia.nocookie.net/zt2downloadlibrary/images/a/a0/Hippocampus_sarmaticus_%28Imago%29.png/revision/latest?cb=20150818142925)
+
+![Ischyodus avitus](https://static.wikia.nocookie.net/zt2downloadlibrary/images/9/90/Ischyodus_%28Imago%29.png/revision/latest?cb=20150814152553)
+
+![Loganellia scotica](https://static.wikia.nocookie.net/zt2downloadlibrary/images/e/ed/Loganellia_%28Imago%29.png/revision/latest/scale-to-width-down/1000?cb=20150816135934)
+
+![Oxynotus bruniensis](https://static.wikia.nocookie.net/zt2downloadlibrary/images/4/47/Prickly_Dogfish_%28Imago%29.png/revision/latest/scale-to-width-down/1000?cb=20210205044500)
+
+![Pangasianodon gigas](https://static.wikia.nocookie.net/zt2downloadlibrary/images/f/ff/Mekong_Giant_Catfish_%28Imago%29.png/revision/latest?cb=20150217180742)
+
+![Rhamphexocoetus volans](https://static.wikia.nocookie.net/zt2downloadlibrary/images/0/08/Rhamphexocoetus_%28Imago%29.png/revision/latest/scale-to-width-down/1000?cb=20150816142441)
+
+![Silurolepis platydorsalis](https://static.wikia.nocookie.net/zt2downloadlibrary/images/9/96/Silurolepis_%28Imago%29.png/revision/latest/scale-to-width-down/1000?cb=20150816133247)
+
+![Sphenonectris turnerae](https://static.wikia.nocookie.net/zt2downloadlibrary/images/0/09/Sphenonectris_%28Imago%29.png/revision/latest?cb=20150815132627)
+
+![Sphyraena bolcensis](https://static.wikia.nocookie.net/zt2downloadlibrary/images/a/ad/Monte_Bolca_Barracuda_%28Imago%29.png/revision/latest/scale-to-width-down/1000?cb=20150818144127)
+
+![Stensioella heintzi](https://static.wikia.nocookie.net/zt2downloadlibrary/images/a/a4/Stensioella_%28Imago%29.png/revision/latest?cb=20150815134400)
